@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 157, 173);
+    font-family: 'Veranda', sans-serif;
+}
+
+#num_2 {
+    font-size: 36px;
+    color: rgb(0, 0, 175);
+}
+
+.num_3 {
+    font-size: 24px;
+}
+
+#num_4 {
+    background-color: rgb(71, 236, 71);
+    font-size: 24px;
+    font-weight: 600;
+}
